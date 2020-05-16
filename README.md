@@ -7,6 +7,8 @@ Ashley Qin, a data analyst and staff reporter with the News, analyzed the data, 
 ## Data and Processing
 Yale athletic team data was extracted from the [Yale Bulldogs athletics website](https://yalebulldogs.com/index.aspx). Yale undergraduates' hometowns were extracted from the university's internal student directory (for privacy reasons, this will not be shared).
 
+The other Ivies' crew team demographics were extracted from their respective athletics websites: [Harvard](https://www.gocrimson.com/landing/index), [Princeton](https://goprincetontigers.com/index.aspx), [Columbia](https://gocolumbialions.com/), [Dartmouth](https://dartmouthsports.com/index.aspx), [Cornell](https://cornellbigred.com/), [UPenn](https://pennathletics.com/index.aspx), [Brown](https://brownbears.com/).
+
 ## Visualization
 Tableau was used to create visualizations for the data.
 
