@@ -12,4 +12,4 @@ The other Ivies' crew team demographics were extracted from their respective ath
 ## Visualization
 Tableau was used to create visualizations for the data.
 
-Please contact me ([Ashley Qin](ashley.qin@yale.edu)) with any questions about this project.
+Please contact me ([Ashley Qin](mailto:ashley.qin@yale.edu)) with any questions about this project.
